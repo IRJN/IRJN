@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 📚 Studying Computer Science and Cognitive Science at the University of Toronto
 
 -->
-- 📚 Studying Computer Science and Cognitive Science at the University of Toronto
 # Hi, I'm Irin Jin 👋
 
 🎓 **Computer Science Specialist & Cognitive Science Major @ University of Toronto**
@@ -115,7 +114,7 @@ Worked on LLM-related engineering tasks involving **prompt optimization, model e
 
 * 💻 **GitHub:** [@IRJN](https://github.com/IRJN)
 * 💼 **LinkedIn:** [Irin Jin](https://www.linkedin.com/in/irin-jin-64612332a/)
-* 📧 **Email:** Available upon request
+* 📧 **Email:** irinjin2006@gmail.com
 
 ---
 
